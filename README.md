@@ -1,12 +1,14 @@
 # ShopBridge
 
-Please find solution file in ShopBridge.API.
+Please find solution file in ShopBridge main folder.
 
 ShopBridge.API : All Api's required for inventory. this layer is exposed to the client.
 ShopBridge.AppService : APP service layer
 ShopBridge.AppService.Tests : Unit tests for test APP service calls.
 ShopBridge.DataModel : All required data models
 ShopBridge.DbRepository : DB repository responsible to talk to DB.
+
+set ShopBridge.API as startup project.
 
 Publish Steps:
 
