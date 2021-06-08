@@ -41,7 +41,7 @@ namespace ShopBridge.API
                 c.SwaggerDoc("v1", new OpenApiInfo
                 {
                     // Version = "v1"
-                    Title = "Fire Service API"
+                    Title = "Shop Bridge Service API"
                     //Description = "Welcome to BigCart API...",
                     //TermsOfService = new Uri("https://example.com/terms"),
                     //Contact = new OpenApiContact
