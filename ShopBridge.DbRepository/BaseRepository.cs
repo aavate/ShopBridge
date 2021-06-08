@@ -11,7 +11,7 @@ namespace ShopBridge.DbRepository
 
         public Microsoft.Data.Sqlite.SqliteConnection GetConnection()
         {
-             var connection = new Microsoft.Data.Sqlite.SqliteConnection(@"Data Source=fire_data.db");
+             var connection = new Microsoft.Data.Sqlite.SqliteConnection(@"Data Source=shopbridge.db");
             //var connection = new Microsoft.Data.Sqlite.SqliteConnection(@"Data Source=D:\Home\Site\wwwroot\Data\fire_data.db");
             connection.Open();
             return connection;
