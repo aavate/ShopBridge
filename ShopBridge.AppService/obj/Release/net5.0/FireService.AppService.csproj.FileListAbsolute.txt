@@ -1,0 +1,17 @@
+D:\Source\Repos\FireService.AppService\bin\Release\net5.0\FireService.AppService.deps.json
+D:\Source\Repos\FireService.AppService\bin\Release\net5.0\FireService.AppService.dll
+D:\Source\Repos\FireService.AppService\bin\Release\net5.0\ref\FireService.AppService.dll
+D:\Source\Repos\FireService.AppService\bin\Release\net5.0\FireService.AppService.pdb
+D:\Source\Repos\FireService.AppService\bin\Release\net5.0\FireService.DataModel.dll
+D:\Source\Repos\FireService.AppService\bin\Release\net5.0\FireService.DbRepository.dll
+D:\Source\Repos\FireService.AppService\bin\Release\net5.0\FireService.DataModel.pdb
+D:\Source\Repos\FireService.AppService\bin\Release\net5.0\FireService.DbRepository.pdb
+D:\Source\Repos\FireService.AppService\obj\Release\net5.0\FireService.AppService.csprojAssemblyReference.cache
+D:\Source\Repos\FireService.AppService\obj\Release\net5.0\FireService.AppService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Repos\FireService.AppService\obj\Release\net5.0\FireService.AppService.AssemblyInfoInputs.cache
+D:\Source\Repos\FireService.AppService\obj\Release\net5.0\FireService.AppService.AssemblyInfo.cs
+D:\Source\Repos\FireService.AppService\obj\Release\net5.0\FireService.AppService.csproj.CoreCompileInputs.cache
+D:\Source\Repos\FireService.AppService\obj\Release\net5.0\FireService.AppService.csproj.CopyComplete
+D:\Source\Repos\FireService.AppService\obj\Release\net5.0\FireService.AppService.dll
+D:\Source\Repos\FireService.AppService\obj\Release\net5.0\ref\FireService.AppService.dll
+D:\Source\Repos\FireService.AppService\obj\Release\net5.0\FireService.AppService.pdb

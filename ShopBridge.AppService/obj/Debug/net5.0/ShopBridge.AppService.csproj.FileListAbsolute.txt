@@ -1,0 +1,68 @@
+C:\ShopBridge\FireService.AppService\bin\Debug\net5.0\ShopBridge.AppService.deps.json
+C:\ShopBridge\FireService.AppService\bin\Debug\net5.0\ShopBridge.AppService.dll
+C:\ShopBridge\FireService.AppService\bin\Debug\net5.0\ref\ShopBridge.AppService.dll
+C:\ShopBridge\FireService.AppService\bin\Debug\net5.0\ShopBridge.AppService.pdb
+C:\ShopBridge\FireService.AppService\bin\Debug\net5.0\ShopBridge.DataModel.dll
+C:\ShopBridge\FireService.AppService\bin\Debug\net5.0\ShopBridge.DbRepository.dll
+C:\ShopBridge\FireService.AppService\bin\Debug\net5.0\ShopBridge.DataModel.pdb
+C:\ShopBridge\FireService.AppService\bin\Debug\net5.0\ShopBridge.DbRepository.pdb
+C:\ShopBridge\FireService.AppService\obj\Debug\net5.0\ShopBridge.AppService.csprojAssemblyReference.cache
+C:\ShopBridge\FireService.AppService\obj\Debug\net5.0\ShopBridge.AppService.GeneratedMSBuildEditorConfig.editorconfig
+C:\ShopBridge\FireService.AppService\obj\Debug\net5.0\ShopBridge.AppService.AssemblyInfoInputs.cache
+C:\ShopBridge\FireService.AppService\obj\Debug\net5.0\ShopBridge.AppService.AssemblyInfo.cs
+C:\ShopBridge\FireService.AppService\obj\Debug\net5.0\ShopBridge.AppService.csproj.CoreCompileInputs.cache
+C:\ShopBridge\FireService.AppService\obj\Debug\net5.0\ShopBridge.AppService.csproj.CopyComplete
+C:\ShopBridge\FireService.AppService\obj\Debug\net5.0\ShopBridge.AppService.dll
+C:\ShopBridge\FireService.AppService\obj\Debug\net5.0\ref\ShopBridge.AppService.dll
+C:\ShopBridge\FireService.AppService\obj\Debug\net5.0\ShopBridge.AppService.pdb
+C:\ShopBridge\ShopBridge.AppService\bin\Debug\net5.0\ShopBridge.AppService.deps.json
+C:\ShopBridge\ShopBridge.AppService\bin\Debug\net5.0\ShopBridge.AppService.dll
+C:\ShopBridge\ShopBridge.AppService\bin\Debug\net5.0\ref\ShopBridge.AppService.dll
+C:\ShopBridge\ShopBridge.AppService\bin\Debug\net5.0\ShopBridge.AppService.pdb
+C:\ShopBridge\ShopBridge.AppService\bin\Debug\net5.0\ShopBridge.DataModel.dll
+C:\ShopBridge\ShopBridge.AppService\bin\Debug\net5.0\ShopBridge.DbRepository.dll
+C:\ShopBridge\ShopBridge.AppService\bin\Debug\net5.0\ShopBridge.DataModel.pdb
+C:\ShopBridge\ShopBridge.AppService\bin\Debug\net5.0\ShopBridge.DbRepository.pdb
+C:\ShopBridge\ShopBridge.AppService\obj\Debug\net5.0\ShopBridge.AppService.csprojAssemblyReference.cache
+C:\ShopBridge\ShopBridge.AppService\obj\Debug\net5.0\ShopBridge.AppService.GeneratedMSBuildEditorConfig.editorconfig
+C:\ShopBridge\ShopBridge.AppService\obj\Debug\net5.0\ShopBridge.AppService.AssemblyInfoInputs.cache
+C:\ShopBridge\ShopBridge.AppService\obj\Debug\net5.0\ShopBridge.AppService.AssemblyInfo.cs
+C:\ShopBridge\ShopBridge.AppService\obj\Debug\net5.0\ShopBridge.AppService.csproj.CoreCompileInputs.cache
+C:\ShopBridge\ShopBridge.AppService\obj\Debug\net5.0\ShopBridge.AppService.csproj.CopyComplete
+C:\ShopBridge\ShopBridge.AppService\obj\Debug\net5.0\ShopBridge.AppService.dll
+C:\ShopBridge\ShopBridge.AppService\obj\Debug\net5.0\ref\ShopBridge.AppService.dll
+C:\ShopBridge\ShopBridge.AppService\obj\Debug\net5.0\ShopBridge.AppService.pdb
+C:\Users\avate\Source\Repos\ShopBridge\ShopBridge.AppService\bin\Debug\net5.0\ShopBridge.AppService.deps.json
+C:\Users\avate\Source\Repos\ShopBridge\ShopBridge.AppService\bin\Debug\net5.0\ShopBridge.AppService.dll
+C:\Users\avate\Source\Repos\ShopBridge\ShopBridge.AppService\bin\Debug\net5.0\ref\ShopBridge.AppService.dll
+C:\Users\avate\Source\Repos\ShopBridge\ShopBridge.AppService\bin\Debug\net5.0\ShopBridge.AppService.pdb
+C:\Users\avate\Source\Repos\ShopBridge\ShopBridge.AppService\bin\Debug\net5.0\ShopBridge.DataModel.dll
+C:\Users\avate\Source\Repos\ShopBridge\ShopBridge.AppService\bin\Debug\net5.0\ShopBridge.DbRepository.dll
+C:\Users\avate\Source\Repos\ShopBridge\ShopBridge.AppService\bin\Debug\net5.0\ShopBridge.DataModel.pdb
+C:\Users\avate\Source\Repos\ShopBridge\ShopBridge.AppService\bin\Debug\net5.0\ShopBridge.DbRepository.pdb
+C:\Users\avate\Source\Repos\ShopBridge\ShopBridge.AppService\obj\Debug\net5.0\ShopBridge.AppService.csprojAssemblyReference.cache
+C:\Users\avate\Source\Repos\ShopBridge\ShopBridge.AppService\obj\Debug\net5.0\ShopBridge.AppService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avate\Source\Repos\ShopBridge\ShopBridge.AppService\obj\Debug\net5.0\ShopBridge.AppService.AssemblyInfoInputs.cache
+C:\Users\avate\Source\Repos\ShopBridge\ShopBridge.AppService\obj\Debug\net5.0\ShopBridge.AppService.AssemblyInfo.cs
+C:\Users\avate\Source\Repos\ShopBridge\ShopBridge.AppService\obj\Debug\net5.0\ShopBridge.AppService.csproj.CoreCompileInputs.cache
+C:\Users\avate\Source\Repos\ShopBridge\ShopBridge.AppService\obj\Debug\net5.0\ShopBridge.AppService.csproj.CopyComplete
+C:\Users\avate\Source\Repos\ShopBridge\ShopBridge.AppService\obj\Debug\net5.0\ShopBridge.AppService.dll
+C:\Users\avate\Source\Repos\ShopBridge\ShopBridge.AppService\obj\Debug\net5.0\ref\ShopBridge.AppService.dll
+C:\Users\avate\Source\Repos\ShopBridge\ShopBridge.AppService\obj\Debug\net5.0\ShopBridge.AppService.pdb
+D:\Avinash Backup\sb\ShopBridge.AppService\bin\Debug\net5.0\ShopBridge.AppService.deps.json
+D:\Avinash Backup\sb\ShopBridge.AppService\bin\Debug\net5.0\ShopBridge.AppService.dll
+D:\Avinash Backup\sb\ShopBridge.AppService\bin\Debug\net5.0\ref\ShopBridge.AppService.dll
+D:\Avinash Backup\sb\ShopBridge.AppService\bin\Debug\net5.0\ShopBridge.AppService.pdb
+D:\Avinash Backup\sb\ShopBridge.AppService\bin\Debug\net5.0\ShopBridge.DataModel.dll
+D:\Avinash Backup\sb\ShopBridge.AppService\bin\Debug\net5.0\ShopBridge.DbRepository.dll
+D:\Avinash Backup\sb\ShopBridge.AppService\bin\Debug\net5.0\ShopBridge.DataModel.pdb
+D:\Avinash Backup\sb\ShopBridge.AppService\bin\Debug\net5.0\ShopBridge.DbRepository.pdb
+D:\Avinash Backup\sb\ShopBridge.AppService\obj\Debug\net5.0\ShopBridge.AppService.csprojAssemblyReference.cache
+D:\Avinash Backup\sb\ShopBridge.AppService\obj\Debug\net5.0\ShopBridge.AppService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Avinash Backup\sb\ShopBridge.AppService\obj\Debug\net5.0\ShopBridge.AppService.AssemblyInfoInputs.cache
+D:\Avinash Backup\sb\ShopBridge.AppService\obj\Debug\net5.0\ShopBridge.AppService.AssemblyInfo.cs
+D:\Avinash Backup\sb\ShopBridge.AppService\obj\Debug\net5.0\ShopBridge.AppService.csproj.CoreCompileInputs.cache
+D:\Avinash Backup\sb\ShopBridge.AppService\obj\Debug\net5.0\ShopBridge.AppService.csproj.CopyComplete
+D:\Avinash Backup\sb\ShopBridge.AppService\obj\Debug\net5.0\ShopBridge.AppService.dll
+D:\Avinash Backup\sb\ShopBridge.AppService\obj\Debug\net5.0\ref\ShopBridge.AppService.dll
+D:\Avinash Backup\sb\ShopBridge.AppService\obj\Debug\net5.0\ShopBridge.AppService.pdb
